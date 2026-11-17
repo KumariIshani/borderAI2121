@@ -1,0 +1,17 @@
+{
+  "camera_id": "cam02",
+  "camera_name": "CAM-02",
+  "location_tag": "Gate Road",
+  "total_frames": 250,
+  "fps": 30.0,
+  "resolution": "1280x720",
+  "duration_seconds": 8.3,
+  "class_counts": {
+    "person": 0,
+    "weapon": 0,
+    "vehicle": 10,
+    "military_vehicle": 0,
+    "armed_person": 0
+  },
+  "total_alerts": 0
+}

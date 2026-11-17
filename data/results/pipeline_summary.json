@@ -1,0 +1,15 @@
+{
+  "source": "data/sample_videos/cam_004_gujarat.mp4",
+  "output_video": "data/detections/annotated_cam_004_gujarat.mp4",
+  "frames_processed": 150,
+  "elapsed_seconds": 11.84,
+  "average_fps": 12.66,
+  "total_alerts": 17,
+  "accumulated_counts": {
+    "person": 0,
+    "weapon": 0,
+    "vehicle": 15,
+    "military_vehicle": 74,
+    "armed_person": 0
+  }
+}

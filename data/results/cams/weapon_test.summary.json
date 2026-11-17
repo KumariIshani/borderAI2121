@@ -1,0 +1,17 @@
+{
+  "camera_id": "weapon_test",
+  "camera_name": "TEST-01",
+  "location_tag": "Weapon Test (Test images)",
+  "total_frames": 200,
+  "fps": 25.0,
+  "resolution": "1280x720",
+  "duration_seconds": 8.0,
+  "class_counts": {
+    "person": 0,
+    "weapon": 3,
+    "vehicle": 0,
+    "military_vehicle": 0,
+    "armed_person": 0
+  },
+  "total_alerts": 0
+}

@@ -1,0 +1,17 @@
+{
+  "camera_id": "cam03",
+  "camera_name": "CAM-03",
+  "location_tag": "Checkpoint",
+  "total_frames": 250,
+  "fps": 30.0,
+  "resolution": "1280x720",
+  "duration_seconds": 8.3,
+  "class_counts": {
+    "person": 0,
+    "weapon": 0,
+    "vehicle": 1,
+    "military_vehicle": 16,
+    "armed_person": 0
+  },
+  "total_alerts": 2
+}

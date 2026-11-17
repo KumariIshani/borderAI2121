@@ -1,0 +1,17 @@
+{
+  "camera_id": "cam04",
+  "camera_name": "CAM-04",
+  "location_tag": "Open Field",
+  "total_frames": 250,
+  "fps": 25.0,
+  "resolution": "1280x720",
+  "duration_seconds": 10.0,
+  "class_counts": {
+    "person": 7,
+    "weapon": 6,
+    "vehicle": 15,
+    "military_vehicle": 76,
+    "armed_person": 0
+  },
+  "total_alerts": 5
+}

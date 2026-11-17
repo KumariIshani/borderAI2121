@@ -1,0 +1,10 @@
+path: D:/raksha/data/dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: weapon
+  2: vehicle
+  3: military_vehicle

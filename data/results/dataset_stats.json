@@ -1,0 +1,45 @@
+{
+  "splits": {
+    "train": {
+      "image_count": 321,
+      "box_count": 999,
+      "corrupt_or_empty_labels": 0,
+      "class_distribution": {
+        "person": 507,
+        "weapon": 360,
+        "vehicle": 60,
+        "military_vehicle": 72
+      }
+    },
+    "val": {
+      "image_count": 68,
+      "box_count": 202,
+      "corrupt_or_empty_labels": 0,
+      "class_distribution": {
+        "person": 109,
+        "weapon": 75,
+        "vehicle": 5,
+        "military_vehicle": 13
+      }
+    },
+    "test": {
+      "image_count": 70,
+      "box_count": 213,
+      "corrupt_or_empty_labels": 0,
+      "class_distribution": {
+        "person": 120,
+        "weapon": 79,
+        "vehicle": 5,
+        "military_vehicle": 9
+      }
+    }
+  },
+  "total_images": 459,
+  "total_boxes": 1414,
+  "class_totals": {
+    "person": 736,
+    "weapon": 514,
+    "vehicle": 70,
+    "military_vehicle": 94
+  }
+}

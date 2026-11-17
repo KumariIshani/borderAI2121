@@ -1,0 +1,17 @@
+{
+  "camera_id": "cam01",
+  "camera_name": "CAM-01",
+  "location_tag": "North Fence",
+  "total_frames": 250,
+  "fps": 25.0,
+  "resolution": "1280x720",
+  "duration_seconds": 10.0,
+  "class_counts": {
+    "person": 59,
+    "weapon": 68,
+    "vehicle": 0,
+    "military_vehicle": 0,
+    "armed_person": 0
+  },
+  "total_alerts": 2
+}

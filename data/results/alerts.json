@@ -1,0 +1,155 @@
+[
+  {
+    "id": "ALT-0001",
+    "time": "00:00.04",
+    "camera": "CAM-01",
+    "camera_id": "cam01",
+    "class": "person",
+    "confidence": 0.259,
+    "zone": "Fence Zone",
+    "priority": "MEDIUM",
+    "message": "Personnel detected inside Fence Zone.",
+    "bbox": [
+      242.7,
+      242.9,
+      412.3,
+      499.9
+    ]
+  },
+  {
+    "id": "ALT-0002",
+    "time": "00:04.72",
+    "camera": "CAM-01",
+    "camera_id": "cam01",
+    "class": "person",
+    "confidence": 0.289,
+    "zone": "Fence Zone",
+    "priority": "MEDIUM",
+    "message": "Personnel detected inside Fence Zone.",
+    "bbox": [
+      361.9,
+      383.3,
+      508.8,
+      559.2
+    ]
+  },
+  {
+    "id": "ALT-0003",
+    "time": "00:05.20",
+    "camera": "CAM-03",
+    "camera_id": "cam03",
+    "class": "vehicle",
+    "confidence": 0.274,
+    "zone": "Fence Zone",
+    "priority": "MEDIUM",
+    "message": "Vehicle entered Fence Zone.",
+    "bbox": [
+      729.8,
+      476.0,
+      835.6,
+      620.2
+    ]
+  },
+  {
+    "id": "ALT-0004",
+    "time": "00:07.03",
+    "camera": "CAM-03",
+    "camera_id": "cam03",
+    "class": "military_vehicle",
+    "confidence": 0.449,
+    "zone": "Fence Zone",
+    "priority": "HIGH",
+    "message": "Tactical military vehicle detected in Fence Zone.",
+    "bbox": [
+      440.4,
+      0.0,
+      858.9,
+      719.0
+    ]
+  },
+  {
+    "id": "ALT-0005",
+    "time": "00:00.00",
+    "camera": "CAM-04",
+    "camera_id": "cam04",
+    "class": "military_vehicle",
+    "confidence": 0.547,
+    "zone": "Fence Zone",
+    "priority": "HIGH",
+    "message": "Tactical military vehicle detected in Fence Zone.",
+    "bbox": [
+      281.7,
+      0.0,
+      1279.0,
+      719.0
+    ]
+  },
+  {
+    "id": "ALT-0006",
+    "time": "00:01.76",
+    "camera": "CAM-04",
+    "camera_id": "cam04",
+    "class": "vehicle",
+    "confidence": 0.318,
+    "zone": "Fence Zone",
+    "priority": "MEDIUM",
+    "message": "Vehicle entered Fence Zone.",
+    "bbox": [
+      238.3,
+      101.9,
+      941.9,
+      719.0
+    ]
+  },
+  {
+    "id": "ALT-0007",
+    "time": "00:03.04",
+    "camera": "CAM-04",
+    "camera_id": "cam04",
+    "class": "military_vehicle",
+    "confidence": 0.558,
+    "zone": "Fence Zone",
+    "priority": "HIGH",
+    "message": "Tactical military vehicle detected in Fence Zone.",
+    "bbox": [
+      0.0,
+      0.0,
+      1279.0,
+      616.3
+    ]
+  },
+  {
+    "id": "ALT-0008",
+    "time": "00:06.28",
+    "camera": "CAM-04",
+    "camera_id": "cam04",
+    "class": "person",
+    "confidence": 0.257,
+    "zone": "Fence Zone",
+    "priority": "MEDIUM",
+    "message": "Personnel detected inside Fence Zone.",
+    "bbox": [
+      10.8,
+      0.0,
+      1279.0,
+      719.0
+    ]
+  },
+  {
+    "id": "ALT-0009",
+    "time": "00:09.48",
+    "camera": "CAM-04",
+    "camera_id": "cam04",
+    "class": "military_vehicle",
+    "confidence": 0.29,
+    "zone": "Fence Zone",
+    "priority": "HIGH",
+    "message": "Tactical military vehicle detected in Fence Zone.",
+    "bbox": [
+      0.0,
+      0.0,
+      1279.0,
+      719.0
+    ]
+  }
+]

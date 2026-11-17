@@ -1,0 +1,18 @@
+{
+  "kpis": {
+    "total_detections": 261,
+    "person": 66,
+    "weapon": 77,
+    "vehicle": 26,
+    "military_vehicle": 92,
+    "armed_person": 0,
+    "critical_alerts": 0,
+    "high_alerts": 4,
+    "medium_alerts": 5,
+    "low_alerts": 0
+  },
+  "timestamp": "2026-11-02T02:48:52.289786",
+  "model_version": "YOLOv8s-BorderSecurity",
+  "mAP50": 0.812,
+  "avg_inference_ms": 48.5
+}
